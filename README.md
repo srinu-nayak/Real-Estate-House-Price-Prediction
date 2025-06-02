@@ -1,0 +1,6 @@
+# Data Preprocessing
+1. loaded the uncleaned flats.csv file
+2. It has 3017 rows and 20 columns
+3. dataset has null values and no duplicates
+
+
