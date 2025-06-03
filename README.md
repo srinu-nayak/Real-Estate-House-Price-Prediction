@@ -8,3 +8,5 @@
 1. loaded the uncleaned houses.csv file
 2. It has 1044 rows and 21 columns
 3. dataset has null values and dropped 13 duplicates
+
+Impored the flats_cleaned and house_cleaned datasets
