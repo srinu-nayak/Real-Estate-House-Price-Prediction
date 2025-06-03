@@ -10,3 +10,5 @@
 3. dataset has null values and dropped 13 duplicates
 
 Impored the flats_cleaned and house_cleaned datasets
+Merged the flats_cleaned and house_cleaned datasets
+
