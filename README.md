@@ -12,3 +12,5 @@
 Impored the flats_cleaned and house_cleaned datasets
 Merged the flats_cleaned and house_cleaned datasets
 
+# Feature engineering on gurgaon_properties_cleaned_v1 file
+1. dataset has null values and duplicates
