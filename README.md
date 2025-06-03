@@ -5,3 +5,6 @@
 
 
 # Data Preprocessing on HOUSES.CSV
+1. loaded the uncleaned houses.csv file
+2. It has 1044 rows and 21 columns
+3. dataset has null values and dropped 13 duplicates
