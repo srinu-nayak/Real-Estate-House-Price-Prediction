@@ -20,3 +20,5 @@ Merged the flats_cleaned and house_cleaned datasets
 1. performed univariate analysis
 2. performed multivariate analysis
 3. performed pandas profiling
+
+# Outlier detection and treatment
