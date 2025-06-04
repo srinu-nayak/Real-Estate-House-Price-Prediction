@@ -24,3 +24,5 @@ Merged the flats_cleaned and house_cleaned datasets
 # Outlier detection and treatment
 
 # Missing value imputation
+
+# Feature selection and feature engineering
