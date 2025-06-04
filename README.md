@@ -39,3 +39,6 @@ Merged the flats_cleaned and house_cleaned datasets
 1. A Pipeline was built using scikit-learn to combine preprocessing and model training steps.
 2. The model used was Support Vector Regression (SVR) with a radial basis function (RBF) kernel, which is effective for non-linear relationships.
 
+# Built the best model -  Random Regressor
+# Built the UI using python streamlit 
+
